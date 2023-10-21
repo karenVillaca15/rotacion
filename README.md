@@ -1,2 +1,0 @@
-# rotacion
-Imagenes de rotación 
